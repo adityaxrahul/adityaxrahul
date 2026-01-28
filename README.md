@@ -20,9 +20,9 @@ Currently focusing on **programming fundamentals, software development, and prob
 ---
 
 ## 📂 Projects
-🔹 **Project 1:** *(Add short description here)*  
-🔹 **Project 2:** *(Add short description here)*  
-🔹 **Project 3:** *(Add short description here)*  
+🔹 **Project 1:** Reasturent Demo Page
+🔹 **Project 2:** Hospital Appointment
+🔹 **Project 3:** College-Site-
 
 👉 More projects coming soon as I continue learning and building 🚀
 
