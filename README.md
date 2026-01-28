@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Kumar Gupta  
 
-<!--
-**adityaxrahul/adityaxrahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast  
 
-Here are some ideas to get you started:
+I’m passionate about learning new technologies and building practical projects.  
+Currently focusing on **programming fundamentals, software development, and problem-solving skills**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Technologies
+- **Languages:** C, C++, Java, Python  
+- **Web Basics:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:**  
+  - Data Structures & Algorithms  
+  - Object-Oriented Programming  
+  - Operating Systems  
+  - Database Basics  
+
+---
+
+## 📂 Projects
+🔹 **Project 1:** *(Add short description here)*  
+🔹 **Project 2:** *(Add short description here)*  
+🔹 **Project 3:** *(Add short description here)*  
+
+👉 More projects coming soon as I continue learning and building 🚀
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaxrahul&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxrahul&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+- Build real-world projects  
+- Improve problem-solving & DSA  
+- Contribute to open-source projects  
+- Prepare for internships & placements  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/adityaxrahul  
+- LinkedIn: https://www.linkedin.com/in/aditya-kumar-gupta-a79131319/ 
+- Email: adityaxgupta.me@gmail.com 
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
